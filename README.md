@@ -20,7 +20,9 @@ A modern **Full Stack Travel Website** built using the **PERN Stack (PostgreSQL,
 Example:
 
 ```md
-![Home](./screenshots/home.png)
+![Home](./client/public/Screenshot%202026-06-25%20170536.png)
+
+![login](./Screenshot%202026-06-25%20170549.png)
 ```
 
 ---
